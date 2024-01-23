@@ -4,10 +4,12 @@ Star Pattern Example 1:
 
 This pattern creates a right-angled triangle of stars.
 The outer loop (irow) iterates through the rows, and the inner loop (icol) prints stars for each column, incrementing the count with each row.
+
 Star Pattern Example 2:
 
 This pattern generates a square shape of stars.
 It utilizes two loops, one for rows and another for columns, to create a grid of stars.
+
 Star Pattern Example 3:
 
 This pattern forms an inverted right-angled triangle of stars with leading spaces.
